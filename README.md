@@ -11,7 +11,6 @@ A modern and responsive landing page built with HTML5 & CSS3 to promote **OurApp
 - ✅ Responsive design for mobile, tablet, and desktop
 - 🎯 Clean, semantic HTML structure
 - 🎨 Stylish UI using CSS animations and shadows
-- 🌗 Dark & Light Mode presentation
 - ☁️ Cloud-ready layout with elegant icons
 - 📬 Contact section + social media links
 
@@ -27,7 +26,7 @@ A modern and responsive landing page built with HTML5 & CSS3 to promote **OurApp
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the demo](https://yourusername.github.io/landing-page/)  
+👉 [Click here to view the demo]([https://yourusername.github.io/landing-page/](https://salem83-dev.github.io/landing-page/))  
 _(Replace with your actual GitHub Pages link after deployment)_
 
 ---
