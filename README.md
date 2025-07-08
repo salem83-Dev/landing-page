@@ -26,7 +26,7 @@ A modern and responsive landing page built with HTML5 & CSS3 to promote **OurApp
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the demo]([https://yourusername.github.io/landing-page/](https://salem83-dev.github.io/landing-page/))  
+👉 [Click here to view the demo](https://yourusername.github.io/landing-page/](https://salem83-dev.github.io/landing-page/)  
 _(Replace with your actual GitHub Pages link after deployment)_
 
 ---
