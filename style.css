@@ -112,7 +112,7 @@ cursor: pointer;
 
 .land {
 position: relative;
-background-image: url(/img/land.jpg);
+background-image: url(./img/land.jpg);
 height: calc(100vh - 82px);
 background-position: center;
 background-size: cover;
